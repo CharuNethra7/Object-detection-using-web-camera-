@@ -87,3 +87,11 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## OUTPUT:
+
+<img width="566" height="424" alt="OP1" src="https://github.com/user-attachments/assets/7f0e55d4-ba63-4c31-8aa4-ef040587bea4" />
+
+<img width="584" height="325" alt="OP2" src="https://github.com/user-attachments/assets/2103fc74-51b8-4342-8870-46f7767bf597" />
+
+<img width="593" height="328" alt="OP3" src="https://github.com/user-attachments/assets/e07721e5-ede8-4df7-95e4-9504edb3fb52" />
+
+
